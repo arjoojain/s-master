@@ -78,6 +78,7 @@
   <ItemGroup>
     <Compile Include="JobEntity.cs" />
     <Compile Include="ListJobsInResourceGroup.cs" />
+    <Compile Include="PredicateBuilder.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
