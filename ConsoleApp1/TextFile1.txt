@@ -1,0 +1,2005 @@
+
+Execution Time at Iteration 1 : 2399.90625
+
+Execution Time at Iteration 2 : 587.125
+
+Execution Time at Iteration 3 : 590.3359375
+
+Execution Time at Iteration 4 : 590.53125
+
+Execution Time at Iteration 5 : 588.9375
+
+Execution Time at Iteration 6 : 602.9453125
+
+Execution Time at Iteration 7 : 598.3984375
+
+Execution Time at Iteration 8 : 591.7421875
+
+Execution Time at Iteration 9 : 586
+
+Execution Time at Iteration 10 : 590.3984375
+
+Execution Time at Iteration 11 : 593.6640625
+
+Execution Time at Iteration 12 : 597.96875
+
+Execution Time at Iteration 13 : 595.0859375
+
+Execution Time at Iteration 14 : 588.953125
+
+Execution Time at Iteration 15 : 597.953125
+
+Execution Time at Iteration 16 : 604.9765625
+
+Execution Time at Iteration 17 : 606.75
+
+Execution Time at Iteration 18 : 587.2265625
+
+Execution Time at Iteration 19 : 589.3125
+
+Execution Time at Iteration 20 : 597.796875
+
+Execution Time at Iteration 21 : 599.359375
+
+Execution Time at Iteration 22 : 592.2421875
+
+Execution Time at Iteration 23 : 586.3125
+
+Execution Time at Iteration 24 : 497.3203125
+
+Execution Time at Iteration 25 : 524.9140625
+
+Execution Time at Iteration 26 : 591.0390625
+
+Execution Time at Iteration 27 : 589.5234375
+
+Execution Time at Iteration 28 : 595.4296875
+
+Execution Time at Iteration 29 : 596.359375
+
+Execution Time at Iteration 30 : 586.8046875
+
+Execution Time at Iteration 31 : 590.859375
+
+Execution Time at Iteration 32 : 602.7890625
+
+Execution Time at Iteration 33 : 588.9296875
+
+Execution Time at Iteration 34 : 590.0546875
+
+Execution Time at Iteration 35 : 593.046875
+
+Execution Time at Iteration 36 : 594.515625
+
+Execution Time at Iteration 37 : 585.4375
+
+Execution Time at Iteration 38 : 592.140625
+
+Execution Time at Iteration 39 : 593.0234375
+
+Execution Time at Iteration 40 : 585.8046875
+
+Execution Time at Iteration 41 : 638.421875
+
+Execution Time at Iteration 42 : 635.1171875
+
+Execution Time at Iteration 43 : 631.078125
+
+Execution Time at Iteration 44 : 588.6015625
+
+Execution Time at Iteration 45 : 585.84375
+
+Execution Time at Iteration 46 : 548.9296875
+
+Execution Time at Iteration 47 : 490.0234375
+
+Execution Time at Iteration 48 : 489.0234375
+
+Execution Time at Iteration 49 : 593.9453125
+
+Execution Time at Iteration 50 : 586.4609375
+
+Execution Time at Iteration 51 : 585.65625
+
+Execution Time at Iteration 52 : 486.9140625
+
+Execution Time at Iteration 53 : 492.953125
+
+Execution Time at Iteration 54 : 589.046875
+
+Execution Time at Iteration 55 : 587.9921875
+
+Execution Time at Iteration 56 : 594.953125
+
+Execution Time at Iteration 57 : 590.4296875
+
+Execution Time at Iteration 58 : 486.0234375
+
+Execution Time at Iteration 59 : 493.9453125
+
+Execution Time at Iteration 60 : 590.84375
+
+Execution Time at Iteration 61 : 589.515625
+
+Execution Time at Iteration 62 : 594.2421875
+
+Execution Time at Iteration 63 : 601.2421875
+
+Execution Time at Iteration 64 : 618.7421875
+
+Execution Time at Iteration 65 : 594.1328125
+
+Execution Time at Iteration 66 : 593.21875
+
+Execution Time at Iteration 67 : 588.0546875
+
+Execution Time at Iteration 68 : 531.6171875
+
+Execution Time at Iteration 69 : 503.09375
+
+Execution Time at Iteration 70 : 483.3515625
+
+Execution Time at Iteration 71 : 588.53125
+
+Execution Time at Iteration 72 : 589.03125
+
+Execution Time at Iteration 73 : 635.9921875
+
+Execution Time at Iteration 74 : 488.0546875
+
+Execution Time at Iteration 75 : 490.4453125
+
+Execution Time at Iteration 76 : 593.546875
+
+Execution Time at Iteration 77 : 587.953125
+
+Execution Time at Iteration 78 : 592.4765625
+
+Execution Time at Iteration 79 : 598.515625
+
+Execution Time at Iteration 80 : 592.984375
+
+Execution Time at Iteration 81 : 589.25
+
+Execution Time at Iteration 82 : 632.3515625
+
+Execution Time at Iteration 83 : 593.859375
+
+Execution Time at Iteration 84 : 599.1171875
+
+Execution Time at Iteration 85 : 614.203125
+
+Execution Time at Iteration 86 : 605.90625
+
+Execution Time at Iteration 87 : 624.3359375
+
+Execution Time at Iteration 88 : 613.390625
+
+Execution Time at Iteration 89 : 603.90625
+
+Execution Time at Iteration 90 : 620.8671875
+
+Execution Time at Iteration 91 : 606.8984375
+
+Execution Time at Iteration 92 : 612.375
+
+Execution Time at Iteration 93 : 609.8984375
+
+Execution Time at Iteration 94 : 779.9375
+
+Execution Time at Iteration 95 : 529.1015625
+
+Execution Time at Iteration 96 : 605.90625
+
+Execution Time at Iteration 97 : 615.859375
+
+Execution Time at Iteration 98 : 619.859375
+
+Execution Time at Iteration 99 : 613.390625
+
+Execution Time at Iteration 100 : 617.859375
+
+Execution Time at Iteration 101 : 621.859375
+
+Execution Time at Iteration 102 : 603.90625
+
+Execution Time at Iteration 103 : 617.3828125
+
+Execution Time at Iteration 104 : 609.8828125
+
+Execution Time at Iteration 105 : 605.8984375
+
+Execution Time at Iteration 106 : 619.8671875
+
+Execution Time at Iteration 107 : 604.8984375
+
+Execution Time at Iteration 108 : 625.1171875
+
+Execution Time at Iteration 109 : 594.9921875
+
+Execution Time at Iteration 110 : 589.9921875
+
+Execution Time at Iteration 111 : 598.0859375
+
+Execution Time at Iteration 112 : 587.21875
+
+Execution Time at Iteration 113 : 592.6796875
+
+Execution Time at Iteration 114 : 594.0078125
+
+Execution Time at Iteration 115 : 595.8125
+
+Execution Time at Iteration 116 : 586.2421875
+
+Execution Time at Iteration 117 : 621.8984375
+
+Execution Time at Iteration 118 : 593.1484375
+
+Execution Time at Iteration 119 : 627.90625
+
+Execution Time at Iteration 120 : 593.46875
+
+Execution Time at Iteration 121 : 616.453125
+
+Execution Time at Iteration 122 : 606.2578125
+
+Execution Time at Iteration 123 : 592.15625
+
+Execution Time at Iteration 124 : 597.0625
+
+Execution Time at Iteration 125 : 620.59375
+
+Execution Time at Iteration 126 : 602.96875
+
+Execution Time at Iteration 127 : 586.0390625
+
+Execution Time at Iteration 128 : 588.0078125
+
+Execution Time at Iteration 129 : 592.984375
+
+Execution Time at Iteration 130 : 592.9375
+
+Execution Time at Iteration 131 : 598.015625
+
+Execution Time at Iteration 132 : 586.90625
+
+Execution Time at Iteration 133 : 590.375
+
+Execution Time at Iteration 134 : 593.7265625
+
+Execution Time at Iteration 135 : 590.0703125
+
+Execution Time at Iteration 136 : 591.203125
+
+Execution Time at Iteration 137 : 588.0546875
+
+Execution Time at Iteration 138 : 594.15625
+
+Execution Time at Iteration 139 : 616.765625
+
+Execution Time at Iteration 140 : 592.8359375
+
+Execution Time at Iteration 141 : 599.3984375
+
+Execution Time at Iteration 142 : 607.4296875
+
+Execution Time at Iteration 143 : 606.4296875
+
+Execution Time at Iteration 144 : 589.15625
+
+Execution Time at Iteration 145 : 585.0625
+
+Execution Time at Iteration 146 : 593.7890625
+
+Execution Time at Iteration 147 : 592.6015625
+
+Execution Time at Iteration 148 : 585.125
+
+Execution Time at Iteration 149 : 489
+
+Execution Time at Iteration 150 : 489.9609375
+
+Execution Time at Iteration 151 : 482.125
+
+Execution Time at Iteration 152 : 592.078125
+
+Execution Time at Iteration 153 : 482.25
+
+Execution Time at Iteration 154 : 491.9765625
+
+Execution Time at Iteration 155 : 498.40625
+
+Execution Time at Iteration 156 : 619.359375
+
+Execution Time at Iteration 157 : 606.6796875
+
+Execution Time at Iteration 158 : 589.7421875
+
+Execution Time at Iteration 159 : 592.953125
+
+Execution Time at Iteration 160 : 592.75
+
+Execution Time at Iteration 161 : 584.9375
+
+Execution Time at Iteration 162 : 592.8046875
+
+Execution Time at Iteration 163 : 595.96875
+
+Execution Time at Iteration 164 : 585.4375
+
+Execution Time at Iteration 165 : 590.59375
+
+Execution Time at Iteration 166 : 590.8359375
+
+Execution Time at Iteration 167 : 592.7109375
+
+Execution Time at Iteration 168 : 595.5234375
+
+Execution Time at Iteration 169 : 589.9765625
+
+Execution Time at Iteration 170 : 589.15625
+
+Execution Time at Iteration 171 : 605.875
+
+Execution Time at Iteration 172 : 596.046875
+
+Execution Time at Iteration 173 : 586.7890625
+
+Execution Time at Iteration 174 : 589.1484375
+
+Execution Time at Iteration 175 : 593.4765625
+
+Execution Time at Iteration 176 : 588.0546875
+
+Execution Time at Iteration 177 : 594
+
+Execution Time at Iteration 178 : 626.96875
+
+Execution Time at Iteration 179 : 596.015625
+
+Execution Time at Iteration 180 : 586.9453125
+
+Execution Time at Iteration 181 : 589.9765625
+
+Execution Time at Iteration 182 : 589.1328125
+
+Execution Time at Iteration 183 : 591.4375
+
+Execution Time at Iteration 184 : 600.5703125
+
+Execution Time at Iteration 185 : 584.2578125
+
+Execution Time at Iteration 186 : 596.9765625
+
+Execution Time at Iteration 187 : 590.75
+
+Execution Time at Iteration 188 : 592.28125
+
+Execution Time at Iteration 189 : 603.4296875
+
+Execution Time at Iteration 190 : 616.96875
+
+Execution Time at Iteration 191 : 610.15625
+
+Execution Time at Iteration 192 : 603.40625
+
+Execution Time at Iteration 193 : 620.859375
+
+Execution Time at Iteration 194 : 607.8828125
+
+Execution Time at Iteration 195 : 500.1875
+
+Execution Time at Iteration 196 : 524.125
+
+Execution Time at Iteration 197 : 600.90625
+
+Execution Time at Iteration 198 : 608.8984375
+
+Execution Time at Iteration 199 : 604.8984375
+
+Execution Time at Iteration 200 : 612.390625
+
+Execution Time at Iteration 201 : 612.875
+
+Execution Time at Iteration 202 : 701.6484375
+
+Execution Time at Iteration 203 : 519.125
+
+Execution Time at Iteration 204 : 614.875
+
+Execution Time at Iteration 205 : 626.3515625
+
+Execution Time at Iteration 206 : 617.859375
+
+Execution Time at Iteration 207 : 597.9296875
+
+Execution Time at Iteration 208 : 622.8671875
+
+Execution Time at Iteration 209 : 602.40625
+
+Execution Time at Iteration 210 : 600.90625
+
+Execution Time at Iteration 211 : 622.859375
+
+Execution Time at Iteration 212 : 602.90625
+
+Execution Time at Iteration 213 : 604.90625
+
+Execution Time at Iteration 214 : 629.34375
+
+Execution Time at Iteration 215 : 604.90625
+
+Execution Time at Iteration 216 : 597.9140625
+
+Execution Time at Iteration 217 : 602.90625
+
+Execution Time at Iteration 218 : 611.875
+
+Execution Time at Iteration 219 : 499.1875
+
+Execution Time at Iteration 220 : 501.171875
+
+Execution Time at Iteration 221 : 609.8984375
+
+Execution Time at Iteration 222 : 596.9140625
+
+Execution Time at Iteration 223 : 603.8984375
+
+Execution Time at Iteration 224 : 625.359375
+
+Execution Time at Iteration 225 : 596.9296875
+
+Execution Time at Iteration 226 : 543.0625
+
+Execution Time at Iteration 227 : 523.609375
+
+Execution Time at Iteration 228 : 604.40625
+
+Execution Time at Iteration 229 : 606.8984375
+
+Execution Time at Iteration 230 : 632.828125
+
+Execution Time at Iteration 231 : 599.9140625
+
+Execution Time at Iteration 232 : 604.3984375
+
+Execution Time at Iteration 233 : 604.90625
+
+Execution Time at Iteration 234 : 601.90625
+
+Execution Time at Iteration 235 : 608.8984375
+
+Execution Time at Iteration 236 : 614.875
+
+Execution Time at Iteration 237 : 604.4140625
+
+Execution Time at Iteration 238 : 623.84375
+
+Execution Time at Iteration 239 : 600.921875
+
+Execution Time at Iteration 240 : 618.8515625
+
+Execution Time at Iteration 241 : 615.390625
+
+Execution Time at Iteration 242 : 508.640625
+
+Execution Time at Iteration 243 : 507.1640625
+
+Execution Time at Iteration 244 : 602.90625
+
+Execution Time at Iteration 245 : 610.890625
+
+Execution Time at Iteration 246 : 620.3671875
+
+Execution Time at Iteration 247 : 605.8984375
+
+Execution Time at Iteration 248 : 632.8203125
+
+Execution Time at Iteration 249 : 508.15625
+
+Execution Time at Iteration 250 : 495.6953125
+
+Execution Time at Iteration 251 : 600.40625
+
+Execution Time at Iteration 252 : 622.859375
+
+Execution Time at Iteration 253 : 605.90625
+
+Execution Time at Iteration 254 : 622.84375
+
+Execution Time at Iteration 255 : 627.3515625
+
+Execution Time at Iteration 256 : 599.9296875
+
+Execution Time at Iteration 257 : 516.1328125
+
+Execution Time at Iteration 258 : 614.8671875
+
+Execution Time at Iteration 259 : 665.7421875
+
+Execution Time at Iteration 260 : 627.3515625
+
+Execution Time at Iteration 261 : 624.8515625
+
+Execution Time at Iteration 262 : 613.875
+
+Execution Time at Iteration 263 : 609.875
+
+Execution Time at Iteration 264 : 494.2109375
+
+Execution Time at Iteration 265 : 504.1640625
+
+Execution Time at Iteration 266 : 627.84375
+
+Execution Time at Iteration 267 : 603.90625
+
+Execution Time at Iteration 268 : 603.90625
+
+Execution Time at Iteration 269 : 608.3984375
+
+Execution Time at Iteration 270 : 513.640625
+
+Execution Time at Iteration 271 : 507.15625
+
+Execution Time at Iteration 272 : 600.9140625
+
+Execution Time at Iteration 273 : 617.8671875
+
+Execution Time at Iteration 274 : 798.3984375
+
+Execution Time at Iteration 275 : 599.9140625
+
+Execution Time at Iteration 276 : 603.8984375
+
+Execution Time at Iteration 277 : 629.8359375
+
+Execution Time at Iteration 278 : 617.3671875
+
+Execution Time at Iteration 279 : 632.8359375
+
+Execution Time at Iteration 280 : 626.84375
+
+Execution Time at Iteration 281 : 613.875
+
+Execution Time at Iteration 282 : 599.421875
+
+Execution Time at Iteration 283 : 602.90625
+
+Execution Time at Iteration 284 : 618.8671875
+
+Execution Time at Iteration 285 : 617.8671875
+
+Execution Time at Iteration 286 : 609.3984375
+
+Execution Time at Iteration 287 : 604.90625
+
+Execution Time at Iteration 288 : 622.84375
+
+Execution Time at Iteration 289 : 609.8984375
+
+Execution Time at Iteration 290 : 611.875
+
+Execution Time at Iteration 291 : 605.3984375
+
+Execution Time at Iteration 292 : 596.9296875
+
+Execution Time at Iteration 293 : 618.8671875
+
+Execution Time at Iteration 294 : 619.8671875
+
+Execution Time at Iteration 295 : 522.109375
+
+Execution Time at Iteration 296 : 525.1171875
+
+Execution Time at Iteration 297 : 613.875
+
+Execution Time at Iteration 298 : 623.8515625
+
+Execution Time at Iteration 299 : 607.3984375
+
+Execution Time at Iteration 300 : 632.828125
+
+Execution Time at Iteration 301 : 598.9140625
+
+Execution Time at Iteration 302 : 616.8671875
+
+Execution Time at Iteration 303 : 599.421875
+
+Execution Time at Iteration 304 : 616.8671875
+
+Execution Time at Iteration 305 : 604.90625
+
+Execution Time at Iteration 306 : 599.90625
+
+Execution Time at Iteration 307 : 622.3671875
+
+Execution Time at Iteration 308 : 635.828125
+
+Execution Time at Iteration 309 : 604.890625
+
+Execution Time at Iteration 310 : 538.0859375
+
+Execution Time at Iteration 311 : 507.1640625
+
+Execution Time at Iteration 312 : 607.8984375
+
+Execution Time at Iteration 313 : 606.8984375
+
+Execution Time at Iteration 314 : 609.8828125
+
+Execution Time at Iteration 315 : 602.9140625
+
+Execution Time at Iteration 316 : 632.3359375
+
+Execution Time at Iteration 317 : 616.859375
+
+Execution Time at Iteration 318 : 605.8984375
+
+Execution Time at Iteration 319 : 617.8671875
+
+Execution Time at Iteration 320 : 601.421875
+
+Execution Time at Iteration 321 : 600.90625
+
+Execution Time at Iteration 322 : 625.84375
+
+Execution Time at Iteration 323 : 608.8828125
+
+Execution Time at Iteration 324 : 624.359375
+
+Execution Time at Iteration 325 : 629.8359375
+
+Execution Time at Iteration 326 : 629.8359375
+
+Execution Time at Iteration 327 : 605.8828125
+
+Execution Time at Iteration 328 : 600.421875
+
+Execution Time at Iteration 329 : 605.90625
+
+Execution Time at Iteration 330 : 608.890625
+
+Execution Time at Iteration 331 : 616.875
+
+Execution Time at Iteration 332 : 622.3515625
+
+Execution Time at Iteration 333 : 697.65625
+
+Execution Time at Iteration 334 : 607.3984375
+
+Execution Time at Iteration 335 : 616.875
+
+Execution Time at Iteration 336 : 603.90625
+
+Execution Time at Iteration 337 : 607.8984375
+
+Execution Time at Iteration 338 : 615.8515625
+
+Execution Time at Iteration 339 : 603.421875
+
+Execution Time at Iteration 340 : 612.875
+
+Execution Time at Iteration 341 : 614.890625
+
+Execution Time at Iteration 342 : 600.90625
+
+Execution Time at Iteration 343 : 608.8984375
+
+Execution Time at Iteration 344 : 604.3984375
+
+Execution Time at Iteration 345 : 600.9140625
+
+Execution Time at Iteration 346 : 633.828125
+
+Execution Time at Iteration 347 : 621.8515625
+
+Execution Time at Iteration 348 : 608.390625
+
+Execution Time at Iteration 349 : 621.8671875
+
+Execution Time at Iteration 350 : 613.875
+
+Execution Time at Iteration 351 : 618.8671875
+
+Execution Time at Iteration 352 : 606.3984375
+
+Execution Time at Iteration 353 : 628.8359375
+
+Execution Time at Iteration 354 : 612.890625
+
+Execution Time at Iteration 355 : 622.359375
+
+Execution Time at Iteration 356 : 497.6796875
+
+Execution Time at Iteration 357 : 505.1640625
+
+Execution Time at Iteration 358 : 606.8984375
+
+Execution Time at Iteration 359 : 614.875
+
+Execution Time at Iteration 360 : 618.3671875
+
+Execution Time at Iteration 361 : 599.90625
+
+Execution Time at Iteration 362 : 629.8359375
+
+Execution Time at Iteration 363 : 601.90625
+
+Execution Time at Iteration 364 : 618.8671875
+
+Execution Time at Iteration 365 : 626.34375
+
+Execution Time at Iteration 366 : 602.90625
+
+Execution Time at Iteration 367 : 604.9140625
+
+Execution Time at Iteration 368 : 614.875
+
+Execution Time at Iteration 369 : 650.2890625
+
+Execution Time at Iteration 370 : 631.828125
+
+Execution Time at Iteration 371 : 612.890625
+
+Execution Time at Iteration 372 : 687.1796875
+
+Execution Time at Iteration 373 : 506.1796875
+
+Execution Time at Iteration 374 : 586.9453125
+
+Execution Time at Iteration 375 : 631.8359375
+
+Execution Time at Iteration 376 : 676.2265625
+
+Execution Time at Iteration 377 : 629.8203125
+
+Execution Time at Iteration 378 : 635.828125
+
+Execution Time at Iteration 379 : 608.3984375
+
+Execution Time at Iteration 380 : 604.8984375
+
+Execution Time at Iteration 381 : 492.6875
+
+Execution Time at Iteration 382 : 494.1953125
+
+Execution Time at Iteration 383 : 627.8359375
+
+Execution Time at Iteration 384 : 627.3515625
+
+Execution Time at Iteration 385 : 627.84375
+
+Execution Time at Iteration 386 : 616.8671875
+
+Execution Time at Iteration 387 : 630.3515625
+
+Execution Time at Iteration 388 : 516.6328125
+
+Execution Time at Iteration 389 : 517.1328125
+
+Execution Time at Iteration 390 : 622.84375
+
+Execution Time at Iteration 391 : 602.921875
+
+Execution Time at Iteration 392 : 626.34375
+
+Execution Time at Iteration 393 : 611.875
+
+Execution Time at Iteration 394 : 497.1953125
+
+Execution Time at Iteration 395 : 507.65625
+
+Execution Time at Iteration 396 : 622.3515625
+
+Execution Time at Iteration 397 : 625.8515625
+
+Execution Time at Iteration 398 : 603.90625
+
+Execution Time at Iteration 399 : 495.1953125
+
+Execution Time at Iteration 400 : 532.578125
+
+Execution Time at Iteration 401 : 610.3984375
+
+Execution Time at Iteration 402 : 596.9140625
+
+Execution Time at Iteration 403 : 597.921875
+
+Execution Time at Iteration 404 : 589.9453125
+
+Execution Time at Iteration 405 : 514.1328125
+
+Execution Time at Iteration 406 : 599.921875
+
+Execution Time at Iteration 407 : 632.8203125
+
+Execution Time at Iteration 408 : 625.359375
+
+Execution Time at Iteration 409 : 616.8671875
+
+Execution Time at Iteration 410 : 507.828125
+
+Execution Time at Iteration 411 : 622.6796875
+
+Execution Time at Iteration 412 : 594.7421875
+
+Execution Time at Iteration 413 : 486.09375
+
+Execution Time at Iteration 414 : 483.9765625
+
+Execution Time at Iteration 415 : 604.5078125
+
+Execution Time at Iteration 416 : 610.2421875
+
+Execution Time at Iteration 417 : 482.203125
+
+Execution Time at Iteration 418 : 484.75
+
+Execution Time at Iteration 419 : 612.1171875
+
+Execution Time at Iteration 420 : 596.7890625
+
+Execution Time at Iteration 421 : 591.984375
+
+Execution Time at Iteration 422 : 594.9375
+
+Execution Time at Iteration 423 : 592.96875
+
+Execution Time at Iteration 424 : 484.765625
+
+Execution Time at Iteration 425 : 482.6875
+
+Execution Time at Iteration 426 : 593.1015625
+
+Execution Time at Iteration 427 : 609.2265625
+
+Execution Time at Iteration 428 : 510.953125
+
+Execution Time at Iteration 429 : 519.71875
+
+Execution Time at Iteration 430 : 625.140625
+
+Execution Time at Iteration 431 : 619.0625
+
+Execution Time at Iteration 432 : 510.09375
+
+Execution Time at Iteration 433 : 490.0859375
+
+Execution Time at Iteration 434 : 595.046875
+
+Execution Time at Iteration 435 : 522.9453125
+
+Execution Time at Iteration 436 : 485.6953125
+
+Execution Time at Iteration 437 : 488.3828125
+
+Execution Time at Iteration 438 : 481.0859375
+
+Execution Time at Iteration 439 : 493.078125
+
+Execution Time at Iteration 440 : 593
+
+Execution Time at Iteration 441 : 549.015625
+
+Execution Time at Iteration 442 : 483.96875
+
+Execution Time at Iteration 443 : 481.9453125
+
+Execution Time at Iteration 444 : 596.015625
+
+Execution Time at Iteration 445 : 488.453125
+
+Execution Time at Iteration 446 : 485.0390625
+
+Execution Time at Iteration 447 : 482.15625
+
+Execution Time at Iteration 448 : 590.34375
+
+Execution Time at Iteration 449 : 594.2578125
+
+Execution Time at Iteration 450 : 588.875
+
+Execution Time at Iteration 451 : 589.4375
+
+Execution Time at Iteration 452 : 591.6953125
+
+Execution Time at Iteration 453 : 487.84375
+
+Execution Time at Iteration 454 : 487.03125
+
+Execution Time at Iteration 455 : 600.9296875
+
+Execution Time at Iteration 456 : 604.96875
+
+Execution Time at Iteration 457 : 596.046875
+
+Execution Time at Iteration 458 : 493.0390625
+
+Execution Time at Iteration 459 : 487.9375
+
+Execution Time at Iteration 460 : 490.703125
+
+Execution Time at Iteration 461 : 595.390625
+
+Execution Time at Iteration 462 : 483.9921875
+
+Execution Time at Iteration 463 : 482.890625
+
+Execution Time at Iteration 464 : 492.0078125
+
+Execution Time at Iteration 465 : 588.4453125
+
+Execution Time at Iteration 466 : 593.6640625
+
+Execution Time at Iteration 467 : 584.6171875
+
+Execution Time at Iteration 468 : 595.3359375
+
+Execution Time at Iteration 469 : 596.109375
+
+Execution Time at Iteration 470 : 596.8828125
+
+Execution Time at Iteration 471 : 592.3671875
+
+Execution Time at Iteration 472 : 588.609375
+
+Execution Time at Iteration 473 : 591.4453125
+
+Execution Time at Iteration 474 : 589.6875
+
+Execution Time at Iteration 475 : 594.3046875
+
+Execution Time at Iteration 476 : 600.484375
+
+Execution Time at Iteration 477 : 586.1484375
+
+Execution Time at Iteration 478 : 588.015625
+
+Execution Time at Iteration 479 : 592.921875
+
+Execution Time at Iteration 480 : 487.140625
+
+Execution Time at Iteration 481 : 482.015625
+
+Execution Time at Iteration 482 : 486.140625
+
+Execution Time at Iteration 483 : 587.7734375
+
+Execution Time at Iteration 484 : 597.1328125
+
+Execution Time at Iteration 485 : 592.453125
+
+Execution Time at Iteration 486 : 591.6640625
+
+Execution Time at Iteration 487 : 592.15625
+
+Execution Time at Iteration 488 : 604
+
+Execution Time at Iteration 489 : 593.875
+
+Execution Time at Iteration 490 : 597.0078125
+
+Execution Time at Iteration 491 : 587.625
+
+Execution Time at Iteration 492 : 587.4375
+
+Execution Time at Iteration 493 : 590.1484375
+
+Execution Time at Iteration 494 : 599.703125
+
+Execution Time at Iteration 495 : 592.7578125
+
+Execution Time at Iteration 496 : 584.9453125
+
+Execution Time at Iteration 497 : 593.6640625
+
+Execution Time at Iteration 498 : 584.3828125
+
+Execution Time at Iteration 499 : 591.796875
+
+Execution Time at Iteration 500 : 625.2578125
+
+Execution Time at Iteration 501 : 587.4921875
+
+Execution Time at Iteration 502 : 613.5703125
+
+Execution Time at Iteration 503 : 624.84375
+
+Execution Time at Iteration 504 : 604.4140625
+
+Execution Time at Iteration 505 : 638.8125
+
+Execution Time at Iteration 506 : 601.90625
+
+Execution Time at Iteration 507 : 606.8984375
+
+Execution Time at Iteration 508 : 599.4296875
+
+Execution Time at Iteration 509 : 624.84375
+
+Execution Time at Iteration 510 : 616.8671875
+
+Execution Time at Iteration 511 : 636.828125
+
+Execution Time at Iteration 512 : 709.1328125
+
+Execution Time at Iteration 513 : 598.90625
+
+Execution Time at Iteration 514 : 603.421875
+
+Execution Time at Iteration 515 : 600.90625
+
+Execution Time at Iteration 516 : 594.9296875
+
+Execution Time at Iteration 517 : 628.8359375
+
+Execution Time at Iteration 518 : 622.8515625
+
+Execution Time at Iteration 519 : 610.390625
+
+Execution Time at Iteration 520 : 632.8203125
+
+Execution Time at Iteration 521 : 608.8984375
+
+Execution Time at Iteration 522 : 601.90625
+
+Execution Time at Iteration 523 : 611.390625
+
+Execution Time at Iteration 524 : 636.8125
+
+Execution Time at Iteration 525 : 601.90625
+
+Execution Time at Iteration 526 : 625.84375
+
+Execution Time at Iteration 527 : 612.390625
+
+Execution Time at Iteration 528 : 532.09375
+
+Execution Time at Iteration 529 : 509.65625
+
+Execution Time at Iteration 530 : 617.3984375
+
+Execution Time at Iteration 531 : 604.890625
+
+Execution Time at Iteration 532 : 629.3359375
+
+Execution Time at Iteration 533 : 749.59375
+
+Execution Time at Iteration 534 : 616.8828125
+
+Execution Time at Iteration 535 : 605.8984375
+
+Execution Time at Iteration 536 : 599.9140625
+
+Execution Time at Iteration 537 : 493.1953125
+
+Execution Time at Iteration 538 : 529.109375
+
+Execution Time at Iteration 539 : 601.9140625
+
+Execution Time at Iteration 540 : 603.8984375
+
+Execution Time at Iteration 541 : 613.875
+
+Execution Time at Iteration 542 : 600.421875
+
+Execution Time at Iteration 543 : 646.796875
+
+Execution Time at Iteration 544 : 522.125
+
+Execution Time at Iteration 545 : 502.671875
+
+Execution Time at Iteration 546 : 627.3515625
+
+Execution Time at Iteration 547 : 837.78125
+
+Execution Time at Iteration 548 : 611.8828125
+
+Execution Time at Iteration 549 : 603.8984375
+
+Execution Time at Iteration 550 : 611.3984375
+
+Execution Time at Iteration 551 : 606.8984375
+
+Execution Time at Iteration 552 : 516.140625
+
+Execution Time at Iteration 553 : 495.6953125
+
+Execution Time at Iteration 554 : 600.90625
+
+Execution Time at Iteration 555 : 602.421875
+
+Execution Time at Iteration 556 : 601.90625
+
+Execution Time at Iteration 557 : 610.8984375
+
+Execution Time at Iteration 558 : 609.875
+
+Execution Time at Iteration 559 : 600.921875
+
+Execution Time at Iteration 560 : 643.3046875
+
+Execution Time at Iteration 561 : 602.921875
+
+Execution Time at Iteration 562 : 600.90625
+
+Execution Time at Iteration 563 : 607.8984375
+
+Execution Time at Iteration 564 : 603.3984375
+
+Execution Time at Iteration 565 : 602.90625
+
+Execution Time at Iteration 566 : 501.6875
+
+Execution Time at Iteration 567 : 526.1015625
+
+Execution Time at Iteration 568 : 600.90625
+
+Execution Time at Iteration 569 : 604.90625
+
+Execution Time at Iteration 570 : 509.15625
+
+Execution Time at Iteration 571 : 497.1875
+
+Execution Time at Iteration 572 : 601.90625
+
+Execution Time at Iteration 573 : 604.90625
+
+Execution Time at Iteration 574 : 495.203125
+
+Execution Time at Iteration 575 : 498.6796875
+
+Execution Time at Iteration 576 : 606.3984375
+
+Execution Time at Iteration 577 : 596.9296875
+
+Execution Time at Iteration 578 : 601.90625
+
+Execution Time at Iteration 579 : 601.90625
+
+Execution Time at Iteration 580 : 603.90625
+
+Execution Time at Iteration 581 : 620.359375
+
+Execution Time at Iteration 582 : 584.9609375
+
+Execution Time at Iteration 583 : 515.640625
+
+Execution Time at Iteration 584 : 561.015625
+
+Execution Time at Iteration 585 : 597.4375
+
+Execution Time at Iteration 586 : 625.84375
+
+Execution Time at Iteration 587 : 605.8984375
+
+Execution Time at Iteration 588 : 798.890625
+
+Execution Time at Iteration 589 : 614.875
+
+Execution Time at Iteration 590 : 610.390625
+
+Execution Time at Iteration 591 : 503.671875
+
+Execution Time at Iteration 592 : 497.1875
+
+Execution Time at Iteration 593 : 606.8828125
+
+Execution Time at Iteration 594 : 607.8984375
+
+Execution Time at Iteration 595 : 609.3984375
+
+Execution Time at Iteration 596 : 597.5
+
+Execution Time at Iteration 597 : 643.421875
+
+Execution Time at Iteration 598 : 637.2421875
+
+Execution Time at Iteration 599 : 599.9609375
+
+Execution Time at Iteration 600 : 596.5234375
+
+Execution Time at Iteration 601 : 596.4140625
+
+Execution Time at Iteration 602 : 592.6015625
+
+Execution Time at Iteration 603 : 588.9140625
+
+Execution Time at Iteration 604 : 586.234375
+
+Execution Time at Iteration 605 : 489.8828125
+
+Execution Time at Iteration 606 : 495.5625
+
+Execution Time at Iteration 607 : 591.6953125
+
+Execution Time at Iteration 608 : 586.390625
+
+Execution Time at Iteration 609 : 601.2578125
+
+Execution Time at Iteration 610 : 588.53125
+
+Execution Time at Iteration 611 : 591.421875
+
+Execution Time at Iteration 612 : 488.484375
+
+Execution Time at Iteration 613 : 517.5703125
+
+Execution Time at Iteration 614 : 586.9921875
+
+Execution Time at Iteration 615 : 585.3984375
+
+Execution Time at Iteration 616 : 598.65625
+
+Execution Time at Iteration 617 : 587.8515625
+
+Execution Time at Iteration 618 : 484.7109375
+
+Execution Time at Iteration 619 : 490.46875
+
+Execution Time at Iteration 620 : 585.84375
+
+Execution Time at Iteration 621 : 591.0546875
+
+Execution Time at Iteration 622 : 498.3515625
+
+Execution Time at Iteration 623 : 485.46875
+
+Execution Time at Iteration 624 : 587.3359375
+
+Execution Time at Iteration 625 : 482.8828125
+
+Execution Time at Iteration 626 : 487.0234375
+
+Execution Time at Iteration 627 : 492.9609375
+
+Execution Time at Iteration 628 : 483.9921875
+
+Execution Time at Iteration 629 : 487.96875
+
+Execution Time at Iteration 630 : 593.9453125
+
+Execution Time at Iteration 631 : 527.53125
+
+Execution Time at Iteration 632 : 482.9765625
+
+Execution Time at Iteration 633 : 483.015625
+
+Execution Time at Iteration 634 : 589.0078125
+
+Execution Time at Iteration 635 : 493.8359375
+
+Execution Time at Iteration 636 : 481.125
+
+Execution Time at Iteration 637 : 487.0703125
+
+Execution Time at Iteration 638 : 594.4765625
+
+Execution Time at Iteration 639 : 509.9140625
+
+Execution Time at Iteration 640 : 492.078125
+
+Execution Time at Iteration 641 : 496.390625
+
+Execution Time at Iteration 642 : 600.734375
+
+Execution Time at Iteration 643 : 594.8515625
+
+Execution Time at Iteration 644 : 631.078125
+
+Execution Time at Iteration 645 : 587.5078125
+
+Execution Time at Iteration 646 : 599.375
+
+Execution Time at Iteration 647 : 483.9765625
+
+Execution Time at Iteration 648 : 484.671875
+
+Execution Time at Iteration 649 : 589.328125
+
+Execution Time at Iteration 650 : 619.1484375
+
+Execution Time at Iteration 651 : 489.921875
+
+Execution Time at Iteration 652 : 518.984375
+
+Execution Time at Iteration 653 : 596.9296875
+
+Execution Time at Iteration 654 : 593.8671875
+
+Execution Time at Iteration 655 : 586.1875
+
+Execution Time at Iteration 656 : 484.4140625
+
+Execution Time at Iteration 657 : 486.109375
+
+Execution Time at Iteration 658 : 490.03125
+
+Execution Time at Iteration 659 : 483.0625
+
+Execution Time at Iteration 660 : 587.953125
+
+Execution Time at Iteration 661 : 598.9765625
+
+Execution Time at Iteration 662 : 490.9453125
+
+Execution Time at Iteration 663 : 482.0078125
+
+Execution Time at Iteration 664 : 593.921875
+
+Execution Time at Iteration 665 : 592.25
+
+Execution Time at Iteration 666 : 486.9375
+
+Execution Time at Iteration 667 : 491.390625
+
+Execution Time at Iteration 668 : 597.3046875
+
+Execution Time at Iteration 669 : 591.703125
+
+Execution Time at Iteration 670 : 489.1796875
+
+Execution Time at Iteration 671 : 529.28125
+
+Execution Time at Iteration 672 : 589.6171875
+
+Execution Time at Iteration 673 : 481.9765625
+
+Execution Time at Iteration 674 : 487.578125
+
+Execution Time at Iteration 675 : 491.96875
+
+Execution Time at Iteration 676 : 591.5
+
+Execution Time at Iteration 677 : 482.1015625
+
+Execution Time at Iteration 678 : 490.890625
+
+Execution Time at Iteration 679 : 484.4921875
+
+Execution Time at Iteration 680 : 600.5390625
+
+Execution Time at Iteration 681 : 594.484375
+
+Execution Time at Iteration 682 : 586.34375
+
+Execution Time at Iteration 683 : 486.0390625
+
+Execution Time at Iteration 684 : 497.84375
+
+Execution Time at Iteration 685 : 593.21875
+
+Execution Time at Iteration 686 : 595.828125
+
+Execution Time at Iteration 687 : 484.53125
+
+Execution Time at Iteration 688 : 482.171875
+
+Execution Time at Iteration 689 : 593.9296875
+
+Execution Time at Iteration 690 : 591.953125
+
+Execution Time at Iteration 691 : 591.6171875
+
+Execution Time at Iteration 692 : 516.4921875
+
+Execution Time at Iteration 693 : 484.8203125
+
+Execution Time at Iteration 694 : 511.4375
+
+Execution Time at Iteration 695 : 596.671875
+
+Execution Time at Iteration 696 : 486.0859375
+
+Execution Time at Iteration 697 : 485.8203125
+
+Execution Time at Iteration 698 : 488.2421875
+
+Execution Time at Iteration 699 : 590.953125
+
+Execution Time at Iteration 700 : 494.2421875
+
+Execution Time at Iteration 701 : 516.828125
+
+Execution Time at Iteration 702 : 587.8828125
+
+Execution Time at Iteration 703 : 591.0390625
+
+Execution Time at Iteration 704 : 590.9375
+
+Execution Time at Iteration 705 : 590.7578125
+
+Execution Time at Iteration 706 : 496.6171875
+
+Execution Time at Iteration 707 : 485.7578125
+
+Execution Time at Iteration 708 : 593.34375
+
+Execution Time at Iteration 709 : 596.5078125
+
+Execution Time at Iteration 710 : 496.0234375
+
+Execution Time at Iteration 711 : 483.9921875
+
+Execution Time at Iteration 712 : 586.4609375
+
+Execution Time at Iteration 713 : 591.7265625
+
+Execution Time at Iteration 714 : 599.6171875
+
+Execution Time at Iteration 715 : 588.203125
+
+Execution Time at Iteration 716 : 589.7421875
+
+Execution Time at Iteration 717 : 591.28125
+
+Execution Time at Iteration 718 : 602.0078125
+
+Execution Time at Iteration 719 : 485.109375
+
+Execution Time at Iteration 720 : 485.390625
+
+Execution Time at Iteration 721 : 591.7578125
+
+Execution Time at Iteration 722 : 587.953125
+
+Execution Time at Iteration 723 : 610.9296875
+
+Execution Time at Iteration 724 : 510.2734375
+
+Execution Time at Iteration 725 : 504.3203125
+
+Execution Time at Iteration 726 : 586.6875
+
+Execution Time at Iteration 727 : 591.6875
+
+Execution Time at Iteration 728 : 482.0546875
+
+Execution Time at Iteration 729 : 489.8359375
+
+Execution Time at Iteration 730 : 592.5546875
+
+Execution Time at Iteration 731 : 588.640625
+
+Execution Time at Iteration 732 : 589.0390625
+
+Execution Time at Iteration 733 : 587.7890625
+
+Execution Time at Iteration 734 : 591
+
+Execution Time at Iteration 735 : 589.0078125
+
+Execution Time at Iteration 736 : 588.9921875
+
+Execution Time at Iteration 737 : 492.046875
+
+Execution Time at Iteration 738 : 483.9375
+
+Execution Time at Iteration 739 : 588.0859375
+
+Execution Time at Iteration 740 : 612.375
+
+Execution Time at Iteration 741 : 620.8125
+
+Execution Time at Iteration 742 : 598.53125
+
+Execution Time at Iteration 743 : 486.8984375
+
+Execution Time at Iteration 744 : 484.359375
+
+Execution Time at Iteration 745 : 586.96875
+
+Execution Time at Iteration 746 : 502.9296875
+
+Execution Time at Iteration 747 : 486.0390625
+
+Execution Time at Iteration 748 : 485.296875
+
+Execution Time at Iteration 749 : 589.7890625
+
+Execution Time at Iteration 750 : 591.734375
+
+Execution Time at Iteration 751 : 584.5859375
+
+Execution Time at Iteration 752 : 592.84375
+
+Execution Time at Iteration 753 : 583.703125
+
+Execution Time at Iteration 754 : 485.3671875
+
+Execution Time at Iteration 755 : 484.6953125
+
+Execution Time at Iteration 756 : 586
+
+Execution Time at Iteration 757 : 588.015625
+
+Execution Time at Iteration 758 : 588.0078125
+
+Execution Time at Iteration 759 : 543.0625
+
+Execution Time at Iteration 760 : 484.03125
+
+Execution Time at Iteration 761 : 483.9453125
+
+Execution Time at Iteration 762 : 588.953125
+
+Execution Time at Iteration 763 : 599.15625
+
+Execution Time at Iteration 764 : 594.625
+
+Execution Time at Iteration 765 : 590.3203125
+
+Execution Time at Iteration 766 : 592.921875
+
+Execution Time at Iteration 767 : 583.015625
+
+Execution Time at Iteration 768 : 597.078125
+
+Execution Time at Iteration 769 : 488.078125
+
+Execution Time at Iteration 770 : 489.5
+
+Execution Time at Iteration 771 : 592.328125
+
+Execution Time at Iteration 772 : 592.9375
+
+Execution Time at Iteration 773 : 586.5859375
+
+Execution Time at Iteration 774 : 593.90625
+
+Execution Time at Iteration 775 : 586.125
+
+Execution Time at Iteration 776 : 597.9296875
+
+Execution Time at Iteration 777 : 588.96875
+
+Execution Time at Iteration 778 : 594.46875
+
+Execution Time at Iteration 779 : 587.671875
+
+Execution Time at Iteration 780 : 589.7109375
+
+Execution Time at Iteration 781 : 585.2265625
+
+Execution Time at Iteration 782 : 585.328125
+
+Execution Time at Iteration 783 : 588.2734375
+
+Execution Time at Iteration 784 : 586.5390625
+
+Execution Time at Iteration 785 : 491.0859375
+
+Execution Time at Iteration 786 : 485.9765625
+
+Execution Time at Iteration 787 : 591.0859375
+
+Execution Time at Iteration 788 : 596.734375
+
+Execution Time at Iteration 789 : 587.0859375
+
+Execution Time at Iteration 790 : 480.9609375
+
+Execution Time at Iteration 791 : 485.03125
+
+Execution Time at Iteration 792 : 626.265625
+
+Execution Time at Iteration 793 : 592.046875
+
+Execution Time at Iteration 794 : 586.9453125
+
+Execution Time at Iteration 795 : 590.6796875
+
+Execution Time at Iteration 796 : 598.5390625
+
+Execution Time at Iteration 797 : 588.46875
+
+Execution Time at Iteration 798 : 636.2578125
+
+Execution Time at Iteration 799 : 600.140625
+
+Execution Time at Iteration 800 : 596.5703125
+
+Execution Time at Iteration 801 : 590
+
+Execution Time at Iteration 802 : 588.03125
+
+Execution Time at Iteration 803 : 594.1953125
+
+Execution Time at Iteration 804 : 594.3125
+
+Execution Time at Iteration 805 : 605.46875
+
+Execution Time at Iteration 806 : 597.3359375
+
+Execution Time at Iteration 807 : 592.6796875
+
+Execution Time at Iteration 808 : 585.9453125
+
+Execution Time at Iteration 809 : 591.078125
+
+Execution Time at Iteration 810 : 598.984375
+
+Execution Time at Iteration 811 : 594.0078125
+
+Execution Time at Iteration 812 : 587.2421875
+
+Execution Time at Iteration 813 : 586.8125
+
+Execution Time at Iteration 814 : 589.2265625
+
+Execution Time at Iteration 815 : 596.9375
+
+Execution Time at Iteration 816 : 587.7734375
+
+Execution Time at Iteration 817 : 589.171875
+
+Execution Time at Iteration 818 : 561.203125
+
+Execution Time at Iteration 819 : 496.3828125
+
+Execution Time at Iteration 820 : 636.9921875
+
+Execution Time at Iteration 821 : 595.421875
+
+Execution Time at Iteration 822 : 600.9140625
+
+Execution Time at Iteration 823 : 598.921875
+
+Execution Time at Iteration 824 : 609.390625
+
+Execution Time at Iteration 825 : 743.046875
+
+Execution Time at Iteration 826 : 501.6640625
+
+Execution Time at Iteration 827 : 615.875
+
+Execution Time at Iteration 828 : 620.3671875
+
+Execution Time at Iteration 829 : 496.6796875
+
+Execution Time at Iteration 830 : 500.1875
+
+Execution Time at Iteration 831 : 599.921875
+
+Execution Time at Iteration 832 : 609.8828125
+
+Execution Time at Iteration 833 : 601.90625
+
+Execution Time at Iteration 834 : 628.3515625
+
+Execution Time at Iteration 835 : 609.8828125
+
+Execution Time at Iteration 836 : 509.15625
+
+Execution Time at Iteration 837 : 498.6875
+
+Execution Time at Iteration 838 : 609.3984375
+
+Execution Time at Iteration 839 : 600.90625
+
+Execution Time at Iteration 840 : 642.8046875
+
+Execution Time at Iteration 841 : 630.8203125
+
+Execution Time at Iteration 842 : 608.3984375
+
+Execution Time at Iteration 843 : 630.8359375
+
+Execution Time at Iteration 844 : 616.8671875
+
+Execution Time at Iteration 845 : 609.8984375
+
+Execution Time at Iteration 846 : 495.1953125
+
+Execution Time at Iteration 847 : 495.203125
+
+Execution Time at Iteration 848 : 602.90625
+
+Execution Time at Iteration 849 : 620.8515625
+
+Execution Time at Iteration 850 : 598.921875
+
+Execution Time at Iteration 851 : 600.921875
+
+Execution Time at Iteration 852 : 610.3984375
+
+Execution Time at Iteration 853 : 598.90625
+
+Execution Time at Iteration 854 : 607.8984375
+
+Execution Time at Iteration 855 : 606.890625
+
+Execution Time at Iteration 856 : 609.890625
+
+Execution Time at Iteration 857 : 618.3828125
+
+Execution Time at Iteration 858 : 539.0703125
+
+Execution Time at Iteration 859 : 497.6796875
+
+Execution Time at Iteration 860 : 514.1484375
+
+Execution Time at Iteration 861 : 598.9140625
+
+Execution Time at Iteration 862 : 619.8671875
+
+Execution Time at Iteration 863 : 604.3984375
+
+Execution Time at Iteration 864 : 636.8125
+
+Execution Time at Iteration 865 : 630.8359375
+
+Execution Time at Iteration 866 : 495.1875
+
+Execution Time at Iteration 867 : 527.109375
+
+Execution Time at Iteration 868 : 604.8984375
+
+Execution Time at Iteration 869 : 604.90625
+
+Execution Time at Iteration 870 : 615.8671875
+
+Execution Time at Iteration 871 : 668.25
+
+Execution Time at Iteration 872 : 619.859375
+
+Execution Time at Iteration 873 : 614.8671875
+
+Execution Time at Iteration 874 : 623.359375
+
+Execution Time at Iteration 875 : 606.8984375
+
+Execution Time at Iteration 876 : 595.921875
+
+Execution Time at Iteration 877 : 599.921875
+
+Execution Time at Iteration 878 : 604.8984375
+
+Execution Time at Iteration 879 : 607.3984375
+
+Execution Time at Iteration 880 : 613.875
+
+Execution Time at Iteration 881 : 595.9296875
+
+Execution Time at Iteration 882 : 598.9140625
+
+Execution Time at Iteration 883 : 510.15625
+
+Execution Time at Iteration 884 : 495.6796875
+
+Execution Time at Iteration 885 : 599.421875
+
+Execution Time at Iteration 886 : 601.90625
+
+Execution Time at Iteration 887 : 604.9140625
+
+Execution Time at Iteration 888 : 598.9140625
+
+Execution Time at Iteration 889 : 605.8984375
+
+Execution Time at Iteration 890 : 616.375
+
+Execution Time at Iteration 891 : 599.921875
+
+Execution Time at Iteration 892 : 604.90625
+
+Execution Time at Iteration 893 : 501.171875
+
+Execution Time at Iteration 894 : 497.6953125
+
+Execution Time at Iteration 895 : 620.3828125
+
+Execution Time at Iteration 896 : 615.859375
+
+Execution Time at Iteration 897 : 601.90625
+
+Execution Time at Iteration 898 : 622.859375
+
+Execution Time at Iteration 899 : 612.875
+
+Execution Time at Iteration 900 : 614.390625
+
+Execution Time at Iteration 901 : 596.9140625
+
+Execution Time at Iteration 902 : 502.6640625
+
+Execution Time at Iteration 903 : 503.1796875
+
+Execution Time at Iteration 904 : 598.9140625
+
+Execution Time at Iteration 905 : 608.3984375
+
+Execution Time at Iteration 906 : 604.8984375
+
+Execution Time at Iteration 907 : 619.8671875
+
+Execution Time at Iteration 908 : 605.8984375
+
+Execution Time at Iteration 909 : 499.1875
+
+Execution Time at Iteration 910 : 500.1875
+
+Execution Time at Iteration 911 : 617.8671875
+
+Execution Time at Iteration 912 : 600.9140625
+
+Execution Time at Iteration 913 : 607.8984375
+
+Execution Time at Iteration 914 : 599.9140625
+
+Execution Time at Iteration 915 : 633.328125
+
+Execution Time at Iteration 916 : 599.921875
+
+Execution Time at Iteration 917 : 604.890625
+
+Execution Time at Iteration 918 : 500.1875
+
+Execution Time at Iteration 919 : 521.625
+
+Execution Time at Iteration 920 : 631.3359375
+
+Execution Time at Iteration 921 : 601.90625
+
+Execution Time at Iteration 922 : 602.90625
+
+Execution Time at Iteration 923 : 600.90625
+
+Execution Time at Iteration 924 : 602.921875
+
+Execution Time at Iteration 925 : 839.28125
+
+Execution Time at Iteration 926 : 600.90625
+
+Execution Time at Iteration 927 : 659.75
+
+Execution Time at Iteration 928 : 501.1875
+
+Execution Time at Iteration 929 : 523.125
+
+Execution Time at Iteration 930 : 606.890625
+
+Execution Time at Iteration 931 : 598.921875
+
+Execution Time at Iteration 932 : 605.90625
+
+Execution Time at Iteration 933 : 606.3984375
+
+Execution Time at Iteration 934 : 601.90625
+
+Execution Time at Iteration 935 : 496.1953125
+
+Execution Time at Iteration 936 : 502.6640625
+
+Execution Time at Iteration 937 : 531.1015625
+
+Execution Time at Iteration 938 : 517.1328125
+
+Execution Time at Iteration 939 : 539.0859375
+
+Execution Time at Iteration 940 : 499.671875
+
+Execution Time at Iteration 941 : 602.90625
+
+Execution Time at Iteration 942 : 603.40625
+
+Execution Time at Iteration 943 : 622.859375
+
+Execution Time at Iteration 944 : 606.8984375
+
+Execution Time at Iteration 945 : 597.9296875
+
+Execution Time at Iteration 946 : 627.34375
+
+Execution Time at Iteration 947 : 604.8984375
+
+Execution Time at Iteration 948 : 599.921875
+
+Execution Time at Iteration 949 : 619.8515625
+
+Execution Time at Iteration 950 : 495.1953125
+
+Execution Time at Iteration 951 : 496.6953125
+
+Execution Time at Iteration 952 : 600.421875
+
+Execution Time at Iteration 953 : 605.90625
+
+Execution Time at Iteration 954 : 620.8515625
+
+Execution Time at Iteration 955 : 500.1875
+
+Execution Time at Iteration 956 : 517.6171875
+
+Execution Time at Iteration 957 : 603.421875
+
+Execution Time at Iteration 958 : 676.7109375
+
+Execution Time at Iteration 959 : 608.8828125
+
+Execution Time at Iteration 960 : 600.421875
+
+Execution Time at Iteration 961 : 614.875
+
+Execution Time at Iteration 962 : 601.90625
+
+Execution Time at Iteration 963 : 612.890625
+
+Execution Time at Iteration 964 : 601.921875
+
+Execution Time at Iteration 965 : 602.40625
+
+Execution Time at Iteration 966 : 599.921875
+
+Execution Time at Iteration 967 : 600.9140625
+
+Execution Time at Iteration 968 : 601.9140625
+
+Execution Time at Iteration 969 : 604.8984375
+
+Execution Time at Iteration 970 : 630.3359375
+
+Execution Time at Iteration 971 : 618.8671875
+
+Execution Time at Iteration 972 : 609.8828125
+
+Execution Time at Iteration 973 : 637.3203125
+
+Execution Time at Iteration 974 : 611.8984375
+
+Execution Time at Iteration 975 : 606.890625
+
+Execution Time at Iteration 976 : 665.7421875
+
+Execution Time at Iteration 977 : 605.3984375
+
+Execution Time at Iteration 978 : 612.890625
+
+Execution Time at Iteration 979 : 599.90625
+
+Execution Time at Iteration 980 : 560.0234375
+
+Execution Time at Iteration 981 : 494.1953125
+
+Execution Time at Iteration 982 : 517.6328125
+
+Execution Time at Iteration 983 : 600.40625
+
+Execution Time at Iteration 984 : 510.6484375
+
+Execution Time at Iteration 985 : 763.9921875
+
+Execution Time at Iteration 986 : 604.890625
+
+Execution Time at Iteration 987 : 604.4140625
+
+Execution Time at Iteration 988 : 596.9296875
+
+Execution Time at Iteration 989 : 601.90625
+
+Execution Time at Iteration 990 : 619.8671875
+
+Execution Time at Iteration 991 : 617.3671875
+
+Execution Time at Iteration 992 : 636.8125
+
+Execution Time at Iteration 993 : 601.90625
+
+Execution Time at Iteration 994 : 616.8671875
+
+Execution Time at Iteration 995 : 602.921875
+
+Execution Time at Iteration 996 : 625.34375
+
+Execution Time at Iteration 997 : 626.8359375
+
+Execution Time at Iteration 998 : 599.921875
+
+Execution Time at Iteration 999 : 603.90625
+
+Execution Time at Iteration 1000 : 612.390625
+
+
+***************Average Time In Execution***********
+
+Avg execution : 0.584519046875 seconds
